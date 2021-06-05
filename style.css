@@ -165,7 +165,7 @@ input.search-input {
 
     .weather-details {
         width: 60vw;
-        height: 56vh;
+        height: 55vh;
     }
 
     .search-input::placeholder {
