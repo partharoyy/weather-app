@@ -160,3 +160,22 @@ input.search-input {
     }
     
 }
+
+@media only screen and (max-width: 500px){
+
+    .weather-details {
+        width: 60vw;
+        height: 55vh;
+    }
+
+    .search-input::placeholder {
+        font-size: 0.8rem;
+    }
+    
+    .search-btn {
+        margin-top: 12px;
+        font-size: 0.8rem;
+    }
+
+    
+}
